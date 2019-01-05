@@ -1,0 +1,7 @@
+# python-
+python爬虫学习笔记
+
+现在的时间是2019-1-5，关于环境配置和一些常用包的下载可以不用再那么麻烦了，什么都不用管，甚至连python环境都不必再单独添加了，
+只需要在网上下一个pycharm，在下载的时候将jre和path选项勾上就可以了，至于一些常用包的添加：
+File --> Settings --> Project:项目名 --> project Interpreter--> '+'号 --> 找到后 install Package。
+
